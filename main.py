@@ -1,5 +1,4 @@
 # Heath Banak
-# fix display info
 # text-based game
 
 placeholder = 'coming soon...'
