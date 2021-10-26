@@ -84,7 +84,7 @@ rooms_reached = []
 
 
 def get_name():
-    print('Welcome to [country carnival madness castle and friends].')
+    print('Welcome to Country Carnival Madness Castle and Friends!')
     print('Type \'quit\' at any time to quit.\n')
 
     name = input('Please enter your name: ').title()
